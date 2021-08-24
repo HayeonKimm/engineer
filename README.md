@@ -1,5 +1,6 @@
 # engineer
 
+
 20210824 회의록
 
 **멤버: 오승아, 김하연**
@@ -16,6 +17,5 @@
 8/28, 9/11, 10/4
     
 ![20201130_main-474x333](https://user-images.githubusercontent.com/85288036/130604621-0db0f675-fef3-4ac4-94ab-f93f20444354.png)
-
 
 
