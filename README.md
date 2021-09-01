@@ -1,4 +1,4 @@
-# programmer-study
+# programming-study
 
 
 <img src = "https://user-images.githubusercontent.com/85288036/130604621-0db0f675-fef3-4ac4-94ab-f93f20444354.png" width =730/>
@@ -68,4 +68,4 @@
 오후 7시~8:30
 
 - 오승아 : Prods 이론 공부.
-- 김하연 : putty에서 주피터 노트북 환경 구축. 포트번호, 인바운드 규칙수정까지 함.
+- 김하연 : putty에서 아나콘다 설치, 주피터 노트북 환경 구축, 자바설치, filezila 연결 
