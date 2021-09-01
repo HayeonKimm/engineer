@@ -1,4 +1,4 @@
-# programmer-study
+# programming-study
 
 
 <img src = "https://user-images.githubusercontent.com/85288036/130604621-0db0f675-fef3-4ac4-94ab-f93f20444354.png" width =730/>
