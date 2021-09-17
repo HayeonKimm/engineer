@@ -182,5 +182,5 @@ Language : Python, AWS, Spark, Django
 오후 7시~8:30
 - 오승아 : ProDS 
 - 김하연 : PRODS 자격증 공부 - 머신러닝 모델의 평가지표 , 특성 공학: 개요, 특성 선택(Feature Selection) 방법론 파트 공부
-- 김아영 : PRODS 자격증 공부 - 
+- 김아영 : PRODS 자격증 공부 - 머신러닝의 기초 공부
 
