@@ -180,7 +180,7 @@ Language : Python, AWS, Spark, Django
 **멤버: 오승아, 김하연, 김아영**
 
 오후 7시~8:30
-- 오승아 : ProDS 
+- 오승아 : ProDS 자격증 공부 - 데이터 시각화 방법 및 기초 파트 공부
 - 김하연 : PRODS 자격증 공부 - 머신러닝 모델의 평가지표 , 특성 공학: 개요, 특성 선택(Feature Selection) 방법론 파트 공부
 - 김아영 : PRODS 자격증 공부 - 머신러닝의 기초 공부
 
